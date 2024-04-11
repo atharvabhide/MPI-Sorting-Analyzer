@@ -10,7 +10,7 @@ Displays a comparison of the time taken to sort the array using different sortin
 
 ## Installation
 ```bash
-git clone git remote add origin https://github.com/atharvabhide/MPI-Sorting-Analyzer.git
+git clone https://github.com/atharvabhide/MPI-Sorting-Analyzer.git
 cd MPI-Sorting-Analyzer
 ```
 
