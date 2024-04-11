@@ -23,3 +23,8 @@ streamlit run app.py
 <p align="center">
   <img src="image.png" alt="Demo" style="display:block; margin:auto;">
 </p>
+
+## Collaborators
+- [Gauri Dahake](
+https://github.com/gauridahake24
+)
